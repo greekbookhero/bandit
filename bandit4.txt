@@ -1,0 +1,1 @@
+read file with just tab(cat ./spa press tab for autocomplete)

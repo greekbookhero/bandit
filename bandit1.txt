@@ -1,0 +1,2 @@
+just enter to ssh and with cat read readme
+in readme password for bandit1

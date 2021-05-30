@@ -1,0 +1,4 @@
+enter to home directory (cd ..)
+find file named "-"( find . -iname -)
+enter to folder and file (cat ./-)
+

@@ -1,0 +1,3 @@
+enter to inhere (cd inhere)
+find hidden file (ls -a)
+read hidden file (cat .hidden)
