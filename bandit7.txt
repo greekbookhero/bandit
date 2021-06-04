@@ -1,0 +1,2 @@
+find / -group bandit6 -size 33c -user bandit7 2> /dev/null
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs

@@ -1,0 +1,3 @@
+cd inhere 
+find ./ ! -executable -readable -size 1033c
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7

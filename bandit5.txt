@@ -1,0 +1,3 @@
+cd inhere
+file ./-file* | grep ASCII
+koReBOKuIDDepwhWk7jZC0RTdopnAYKh
