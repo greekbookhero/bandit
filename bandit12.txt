@@ -1,0 +1,6 @@
+##rotated by 13 position is ROT-13 cipher
+## tr for changing text (tr means translate)
+## a little bit harder problem 
+cat data.txt | tr [a-z][A-Z] [n-za-m][N-ZA-M] 
+## output: The password is 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+## in my understanding [a-z][A-Z] is order in which you make replace to from n to z after to a to m 
